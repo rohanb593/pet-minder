@@ -88,6 +88,6 @@ Floor plan of the 4th floor (offices, open workspaces, meeting rooms, stairwell,
 | 2. Customers and Users | Xinzhu |
 | 3. The Environment | Uliana |
 | 4. Tasks and Procedures Currently Performed | Aradhya |
-| 5. Competing Software | Alaur  and Tahrima |
-| 6. Domain Model | William  |
+| 5. Competing Software | Alaur and Tahrima |
+| 6. Domain Model | William |
 
