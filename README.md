@@ -3,7 +3,7 @@
 ## Quick Info
 
 - [QMPlus Page](https://qmplus.qmul.ac.uk/course/view.php?id=15588)
-- **Lab time:** 10:00
+- **Lab time:** 10:30 - 11:00
 - **Client:** Hamid | **Demo:** Basira
 - **Time slot IDs:** 9, 16, 18, 26, 31, 32, 42
 
