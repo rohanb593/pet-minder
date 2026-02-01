@@ -3,7 +3,7 @@
 ## Quick Info
 
 - [QMPlus Page](https://qmplus.qmul.ac.uk/course/view.php?id=15588)
-- **Lab time:** 10:00
+- **Lab time:** 10:30 - 11:00
 - **Client:** Hamid | **Demo:** Basira
 - **Time slot IDs:** 9, 16, 18, 26, 31, 32, 42
 
@@ -53,15 +53,15 @@ There are weekly submissions in this module; there is no exam. Submissions and w
 
 ## Team (Group 26)
 
-| First name | Last name | ID |
-|------------|-----------|-----|
-| Uliana | Makarova | 240120359 |
-| William | Wingfield | 240327338 |
-| Xinzhu | Zhao | 240059129 |
-| Tahrima | Akther Milky | 230332519 |
-| Rohan | Bhagat | 240134127 |
-| Alaur | Rahman | 240220109 |
-| Aradhya | Tripathi | 240920335 |
+| First name | Last name | ID | Emails | 
+|------------|-----------|-----|-------|
+| Uliana | Makarova | 240120359 | u.makarova@se24.qmul.ac.uk |
+| William | Wingfield | 240327338 | w.wingfield@se24.qmul.ac.uk |
+| Xinzhu | Zhao | 240059129 | x.zhao@se24.qmul.ac.uk |
+| Tahrima | Akther Milky | 230332519 | t.milky@se24.qmul.ac.uk |
+| Rohan | Bhagat | 240134127 | r.bhagat@stu23.qmul.ac.uk |
+| Alaur | Rahman | 240220109 | alaur.rahman@se24.qmul.ac.uk |
+| Aradhya | Tripathi | 240920335 | a.tripathi@se24.qmul.ac.uk |
 
 ## Project Schedule (Demos & Time Slots)
 
