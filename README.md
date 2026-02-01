@@ -80,10 +80,14 @@ Floor plan of the 4th floor (offices, open workspaces, meeting rooms, stairwell,
 
 ![4th floor map](assets/4th_floor_map_2026-4db30eff-3f30-4dff-89df-5193102d004d.png)
 
-## Getting Started
+## Domain Analysis Report
 
-*To be filled in as the project is set up (e.g. prerequisites, install steps, how to run).*
+| Section | Assigned To |
+|---------|-------------|
+| 1. Introduction | Rohan |
+| 2. Customers and Users | Xinzhu Zhao |
+| 3. The Environment | Uliana |
+| 4. Tasks and Procedures Currently Performed | Aradhya |
+| 5. Competing Software | Alaur and Tahrima |
+| 6. Domain Model | William |
 
-## License
-
-*To be added.*
